@@ -1,10 +1,10 @@
-package com.example.testgroup.service;
+package com.example.InternetShop.service;
 
-import com.example.testgroup.dto.UserDTO;
-import com.example.testgroup.mapper.UserMapper;
-import com.example.testgroup.model.User;
-import com.example.testgroup.repository.RoleRepository;
-import com.example.testgroup.repository.UserRepository;
+import com.example.InternetShop.mapper.UserMapper;
+import com.example.InternetShop.repository.UserRepository;
+import com.example.InternetShop.dto.UserDTO;
+import com.example.InternetShop.model.User;
+import com.example.InternetShop.repository.RoleRepository;
 import jakarta.transaction.Transactional;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;

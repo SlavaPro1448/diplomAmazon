@@ -1,4 +1,4 @@
-package com.example.testgroup.configuration;
+package com.example.InternetShop.configuration;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

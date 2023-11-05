@@ -1,6 +1,6 @@
-package com.example.testgroup.configuration;
+package com.example.InternetShop.configuration;
 
-import com.example.testgroup.repository.UserRepository;
+import com.example.InternetShop.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

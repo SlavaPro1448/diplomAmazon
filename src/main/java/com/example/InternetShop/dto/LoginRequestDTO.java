@@ -1,4 +1,4 @@
-package com.example.testgroup.dto;
+package com.example.InternetShop.dto;
 
 import lombok.Data;
 

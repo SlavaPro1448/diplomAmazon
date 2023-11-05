@@ -1,4 +1,4 @@
-package com.example.testgroup.configuration;
+package com.example.InternetShop.configuration;
 
 import lombok.AllArgsConstructor;
 import org.springframework.context.annotation.Bean;

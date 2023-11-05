@@ -1,8 +1,8 @@
-package com.example.testgroup.mapper;
+package com.example.InternetShop.mapper;
 
-import com.example.testgroup.dto.UserDTO;
+import com.example.InternetShop.dto.UserDTO;
 import org.mapstruct.Mapper;
-import com.example.testgroup.model.User;
+import com.example.InternetShop.model.User;
 
 @Mapper(componentModel = "spring")
 public interface UserMapper

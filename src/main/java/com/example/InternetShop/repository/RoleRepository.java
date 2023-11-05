@@ -1,6 +1,6 @@
-package com.example.testgroup.repository;
+package com.example.InternetShop.repository;
 
-import com.example.testgroup.model.Role;
+import com.example.InternetShop.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

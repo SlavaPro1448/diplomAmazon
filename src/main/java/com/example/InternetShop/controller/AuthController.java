@@ -1,9 +1,9 @@
-package com.example.testgroup.controller;
+package com.example.InternetShop.controller;
 
-import com.example.testgroup.configuration.JwtUtils;
-import com.example.testgroup.dto.LoginRequestDTO;
-import com.example.testgroup.dto.UserDTO;
-import com.example.testgroup.service.UserService;
+import com.example.InternetShop.service.UserService;
+import com.example.InternetShop.configuration.JwtUtils;
+import com.example.InternetShop.dto.LoginRequestDTO;
+import com.example.InternetShop.dto.UserDTO;
 import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

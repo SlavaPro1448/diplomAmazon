@@ -1,11 +1,9 @@
-package com.example.testgroup.controller;
+package com.example.InternetShop.controller;
 
-import com.example.testgroup.dto.UserDTO;
-import com.example.testgroup.model.User;
-import com.example.testgroup.service.UserService;
+import com.example.InternetShop.service.UserService;
+import com.example.InternetShop.dto.UserDTO;
+import com.example.InternetShop.model.User;
 import lombok.AllArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package com.example.testgroup.configuration;
+package com.example.InternetShop.configuration;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.springframework.security.core.GrantedAuthority;
@@ -7,7 +7,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
 import java.util.List;
-import com.example.testgroup.model.User;
+import com.example.InternetShop.model.User;
 
 public class UserDetailsImpl implements UserDetails
 {
